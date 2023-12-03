@@ -21,7 +21,6 @@ with open('task-2.txt', 'r') as file:
                     blue = blue_number
 
         total += red * green * blue
-        print(red, green, blue)
         print(total)
 
 
